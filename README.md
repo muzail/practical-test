@@ -71,5 +71,9 @@
      ```
      npm run dev
      ```
+## Link Jawaban Teori
+https://careful-island-bcb.notion.site/Assasment-8dd283eca95e495f9e4d98b33015f0f6
+
+
 
 Sekian dokumentasi singkat untuk instalasi dan menjalankan Laravel dan React. Pastikan Anda mengikuti langkah-langkah di atas dengan urut untuk memastikan aplikasi berjalan dengan baik.
